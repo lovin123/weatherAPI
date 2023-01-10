@@ -1,7 +1,9 @@
 # weatherAPI
 API:
 localhost:3000/weather?city=cityToSearch
+
 city: city name you want to search. If not given, by default it will search for Pune.
+
 Example:
 localhost:3000/weather?city=Delhi
 
